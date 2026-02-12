@@ -1,4 +1,4 @@
-homework2 
+homework1
 
-<img width="473" height="484" alt="image" src="https://github.com/user-attachments/assets/d75e92aa-dc2d-451e-ab51-7bcb3b3f0258" />
+<img width="420" height="487" alt="homework1" src="https://github.com/user-attachments/assets/07350064-2944-42e9-a7a4-af6f6e528578" />
 
